@@ -16,3 +16,8 @@ Ferramentas web que axudan nalgunha tarefa
 
 * [**Type Scale**](https://typescale.com/) é unha ferramenta para crear escalas tipográficas modulares
 * [**Fluid Type Scale Calculator**](https://www.fluid-type-scale.com/) xera escalas tipográficas modulares con CSS clamp.
+
+## Navegadores
+
+* [Browser Deafaul Styles] (https://browserdefaultstyles.com/) dache os estilos predeterminados cos que os navegadores pintan os elementos HTML
+* [Browser Hacks](http://browserhacks.com/) listaxe de hacks CSS e JavaScript específicos de cada navegador
