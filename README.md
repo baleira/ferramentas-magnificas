@@ -4,11 +4,21 @@ Ferramentas web que axudan nalgunha tarefa
 
 * [**BuiltWith**](https://builtwith.com/) - Sirve para ver con qué tecnoloxías está feita unha web
 * [**tldraw**](https://www.tldraw.com/) - Aplicación para facer debuxos
-* [**MetaTags**](https://metatags.io/) é unha ferramenta para crear meta tags e comprobar como se ven en Google, Facebook, Twitter...
+
+## Editores
+
+* [**CodePen**](https://codepen.io/)
+* [**Codesandbox**](https://codesandbox.io/)
+* [**JSfiddle**](https://jsfiddle.net/)
+* [**Glitch**](https://glitch.com/)
+* [**StackBlitz**](https://stackblitz.com/)
+
 
 ## Desenvolvemento
 
 * [**JSON to YAML**](https://www.json2yaml.com/)
+* [**MetaTags**](https://metatags.io/) é unha ferramenta para crear meta tags e comprobar como se ven en Google, Facebook, Twitter..
+* [**Project Wallace**](https://www.projectwallace.com/) é unha ferramenta para analizar a calidade do teu CSS
 * [**Regular Expression 101**](https://regex101.com/)
 * [**Sassmeister**](https://www.sassmeister.com/) xera CSS a partires de Sass/SCSS.
 
@@ -29,6 +39,7 @@ Ferramentas web que axudan nalgunha tarefa
 
 ## Imaxes
 
+* [**Favicon Generator. For real.**](https://realfavicongenerator.net) 
 * [**Font to SVG path**](https://danmarshall.github.io/google-font-to-svg-path/) xera un SVG a partir dun texto cunha fonte de Google Fonts dou dunha que engadas ti.
 * [**SVG Viewer**](https://www.svgviewer.dev/) con esta ferramenta pode ver, editar y optimizar SVG.
 * [**SVG OMG**](https://svgomg.net/) é unha GUI para [SVGO](https://github.com/svg/svgo), unha ferramenta para optimizar arquivos SVG.
